@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Andreww z7rwastaken <andreww@shadowct.eu>'
+author 'Andreas Kapsalis <andreaskapsalhs@gmail.com>'
 description 'Scaffold for your TypeScript FiveM resource, replace this with your resource description.'
 version '1.0.0'
 

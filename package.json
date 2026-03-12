@@ -2,8 +2,8 @@
   "name": "ad-scaffold",
   "version": "1.0.0",
   "description": "Scaffold for your TypeScript FiveM resource!",
-  "repository": "https://github.com/z7rwastaken/ad-scaffold",
-  "author": "Andreww z7rwastaken <andreww@shadowct.eu>",
+  "repository": "https://github.com/andreaskapsalhs/ad-scaffold",
+  "author": "Andreas Kapsalis <andreaskapsalhsw@gmail.com>",
   "scripts": {
     "build": "yarn prettier && yarn lint && rm -rf dist && webpack --mode production",
     "build:dev": "&& webpack --mode development --watch true",

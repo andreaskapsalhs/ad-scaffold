@@ -5,7 +5,7 @@ const printCredits = (): any => {
       GetCurrentResourceName(),
       'version',
       0,
-    )} }\n^0-^2 Made by Andreww | z7rwastaken | <andreww@shadowct.eu> ^0-\n^0-^2 Github: https://github.com/z7rwastaken/ad-scaffold ^0-\n^0-^2 Discord: @andreww#1246 ^0-\n^6{ ${GetCurrentResourceName()} <3 }`,
+    )} }\n^0-^2 Made by Andreww | andreaskapsalhs | <andreaskapsalhs@gmail.com> ^0-\n^0-^2 Github: https://github.com/andreaskapsalhs/ad-scaffold ^0-\n^0-^2 Discord: @andreaskapsalhs ^0-\n^6{ ${GetCurrentResourceName()} <3 }`,
   );
 };
 

@@ -3,12 +3,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/z7rwastaken/ad-scaffold">
-    <img src="https://cdn.discordapp.com/attachments/823173525866020875/884184539029708840/logo.png" alt="Andreww!" width="256" height="256">
-  </a>
-
   <h3 align="center">ad-scaffold</h3>
-
   <p align="center">
     A scaffold for your TypeScript FiveM resource!
   </p>
@@ -47,7 +42,7 @@ To get the scaffold up & running in your server complete the following steps!
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/z7rwastaken/ad-scaffold.git 
+   git clone https://github.com/andreaskapsalhs/ad-scaffold.git 
    ```
 2. Install NPM packages
    ```sh
@@ -72,11 +67,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Andreww z7rwastaken - @andreww#1246 at [Discord](https://discord.gg//) - andreww@shadowct.eu
+Andreas Kapsalis 
+- andreaskapsalhs@gmail.com
+- [@andreaskapsalhs](https://discord.gg/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/z7rwastaken/ad-scaffold.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/z7rwastaken/ad-scaffold
-[license-shield]: https://img.shields.io/github/license/z7rwastaken/ad-scaffold.svg?style=for-the-badge
-[license-url]: https://github.com/z7rwastaken/ad-scaffold/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/andreaskapsalhs/ad-scaffold.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/andreaskapsalhs/ad-scaffold
+[license-shield]: https://img.shields.io/github/license/andreaskapsalhs/ad-scaffold.svg?style=for-the-badge
+[license-url]: https://github.com/andreaskapsalhs/ad-scaffold/blob/main/LICENSE
